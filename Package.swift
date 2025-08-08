@@ -18,7 +18,7 @@ let package = Package(
     ],
     targets: [
         .target(
-            name: "UnionGradients"
-        ),
+            name: "UnionGradients",
+        )
     ]
 )
